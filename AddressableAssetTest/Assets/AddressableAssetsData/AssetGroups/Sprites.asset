@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f5fb3a0e93cc86347849da94c6dfba65
+  m_SerializeEntries:
+  - m_GUID: ae30c8936e5c2924dbefd2a2818e2c53
+    m_Address: BladeSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b1f4a6b91e61974b893351a739d2b03
+    m_Address: ShooterSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9d1dfd92b5a6b641b2019c958f2337e
+    m_Address: StatikkSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b4e43f3f7cca9a478ecb25789d0d6a1
+    m_Address: KnockbackSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bef9fcdc96151034bac3fe234ab7df55
+    m_Address: ImpactSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b2ce494e1f10445ab671aa5d99ba08
+    m_Address: BlackholeSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 783ef4596086b6543b2b00ad4cd15a65
+    m_Address: StickyBombSkillIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SkillIcons
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 48dad4595eeadbc4c9716a93f50a561b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 482bf27eeb62a1649afab3979de7a09d, type: 2}
+    - {fileID: 11400000, guid: 22fe1c9f19c70104787c227262d642ff, type: 2}
